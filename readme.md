@@ -9,8 +9,8 @@
 
 ### 2. Control Flow
 Boolean **expressions** are statements that can be either ```True``` or ```False``` <br>
-Boolean **variable** is a variable that is set to either ```True``` or ```False``` <br>
-You can create boolean expressions using relational operators: <br>
+Boolean **variable** is a variable that is set to either ```True``` or ```False``` <br> <br>
+You can create boolean expressions using relational operators: <br> 
 - Equals: ```==```
 - Not equals: ```!=```
 - Greater than: ```>```
