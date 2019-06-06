@@ -7,10 +7,10 @@
 - Interact learning
 - Project: Create Purchasing Information and Receipts for Lovely Loveseats
 
-## 2. Control Flow
-- Boolean **expressions** are statements that can be either ```True``` or ```False```
-- Boolean **variable** is a variable that is set to either ```True``` or ```False```
-You can create boolean expressions using relational operators:
+### 2. Control Flow
+Boolean **expressions** are statements that can be either ```True``` or ```False``` <br>
+Boolean **variable** is a variable that is set to either ```True``` or ```False``` <br>
+<p> You can create boolean expressions using relational operators: </p>
 - Equals: ```==```
 - Not equals: ```!=```
 - Greater than: ```>```
