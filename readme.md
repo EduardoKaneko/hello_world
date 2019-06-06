@@ -18,8 +18,7 @@ You can create boolean expressions using relational operators:
 - Less than: ```<```
 - Less than or equal to: ```<=```
 
-```if``` statements can be used to create control flow in your code.
-```else``` statements can be used to execute code when the conditions of an if statement are not met.
-```elif``` statements can be used to build additional checks into your if statements
-```try``` and except statements can be used to build error control into your code.
-
+- ```if``` statements can be used to create control flow in your code.
+- ```else``` statements can be used to execute code when the conditions of an if statement are not met.
+- ```elif``` statements can be used to build additional checks into your if statements
+- ```try``` and except statements can be used to build error control into your code.
