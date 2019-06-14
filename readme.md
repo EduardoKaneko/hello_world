@@ -22,3 +22,13 @@ You can create boolean expressions using relational operators: <br>
 - ```else``` statements can be used to execute code when the conditions of an if statement are not met.
 - ```elif``` statements can be used to build additional checks into your if statements
 - ```try``` and except statements can be used to build error control into your code.
+
+
+### 3. Working with lists in python
+<b>Review</b>
+In this lesson, we learned how to:
+
+- Get the length of a list
+- Select subsets of a list (called slicing)
+- Count the number of times that an element appears in a list
+- Sort a list of items
